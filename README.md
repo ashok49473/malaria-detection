@@ -36,6 +36,7 @@ change directory : `cd desktop/malaria-detection`
 
 ## Demo
  - Home Page<br>
-  <img src="https://github.com/ashok49473/malaria-detection/blob/main/static/images/Home.png" width="60%">
+  <img src="https://github.com/ashok49473/malaria-detection/blob/main/static/images/Home.png" width="60%"><br>
+  
  - Result<br>
  <img src="https://github.com/ashok49473/malaria-detection/blob/main/static/images/result.png" width="60%">
