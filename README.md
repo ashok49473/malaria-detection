@@ -9,7 +9,7 @@
   - Data set : [Malaria Cell Images](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
   - Code : [Jupyter Notebook!](https://www.kaggle.com/ashokkumarpalivela/malaria-detection-app-with-tensorflow-2)
   - Useful Blog : [How to Develop VGG Model from Scratch in Keras](https://machinelearningmastery.com/how-to-implement-major-architecture-innovations-for-convolutional-neural-networks/)
-  - Trained model : [Download](https://www.kaggle.com/ashokkumarpalivela/malaria-detection-app-with-tensorflow-2/output?select=vgg.h5)
+  -Pre Trained model : [Download](https://www.kaggle.com/ashokkumarpalivela/malaria-detection-app-with-tensorflow-2/output?select=vgg.h5)
 
 ## Tools used🛠
  - Python 3.7
@@ -21,6 +21,7 @@
  - Bootstrap
  
  ## Run this application☢
+ **Download the pre-trained model using above Download option**
  - Step 1: Download zip file and extract or clone this repository<br>
  `git clone https://github.com/ashok49473/malaria-detection.git`
 
